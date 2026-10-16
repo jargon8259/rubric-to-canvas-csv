@@ -1,0 +1,18 @@
+Criterion Name,Points,Competent,Approaching Competency,Not Competent,Not Submitted
+A. Sample Prompt One,15,"Sample text: fully addresses prompt A.
+This second line shows a multi-line cell.","Sample text: partly addresses prompt A, with gaps.",Sample text: does not address prompt A.,No submission.
+B. Sample Prompt Two with Requirements,15,"Sample text: fully addresses prompt B.
+This second line shows a multi-line cell.","Sample text: partly addresses prompt B, with gaps.",Sample text: does not address prompt B.,No submission.
+C. Sample Prompt Three,10,"Sample text: fully addresses prompt C.
+This second line shows a multi-line cell.","Sample text: partly addresses prompt C, with gaps.",Sample text: does not address prompt C.,No submission.
+C1. Sample Sub-Prompt,10,"Sample text: fully addresses prompt C1.
+This second line shows a multi-line cell.","Sample text: partly addresses prompt C1, with gaps.",Sample text: does not address prompt C1.,No submission.
+C2. Sample Sub-Prompt with Requirements,10,"Sample text: fully addresses prompt C2.
+This second line shows a multi-line cell.","Sample text: partly addresses prompt C2, with gaps.",Sample text: does not address prompt C2.,No submission.
+D1. Sample Sub-Prompt,10,"Sample text: fully addresses prompt D1.
+This second line shows a multi-line cell.","Sample text: partly addresses prompt D1, with gaps.",Sample text: does not address prompt D1.,No submission.
+D2. Sample Sub-Prompt,10,"Sample text: fully addresses prompt D2.
+This second line shows a multi-line cell.","Sample text: partly addresses prompt D2, with gaps.",Sample text: does not address prompt D2.,No submission.
+E. Mechanics,10,"Demonstrates consistent accuracy of grammar, punctuation, sentence structure, spelling, and word usage. Errors, if present, are minor and do not interfere with clarity or meaning.","Demonstrates developing understanding of grammar and mechanics. Noticeable errors in sentence structure, punctuation, or word usage may slightly affect clarity.","Frequent or significant errors in grammar, sentence structure, punctuation, or word usage that interfere with clarity and understanding.",No submission.
+F. Professional Comportment,5,"Demonstrates professional demeanor through respectful communication, accountability, and adherence to academic conduct standards. Consistently contributes to a positive and collaborative environment.","Demonstrates basic professional behaviors with occasional lapses in communication, or accountability. May need reminders to engage ethically or respond appropriately to feedback.","Frequently displays unprofessional behaviors such as poor communication, lack of preparation, or disregard for ethical or collaborative expectations. Fails to respond appropriately to feedback.",No submission.
+G. APA/References,5,"Completes a reference section and intext citations giving credit to source(s) used. Reference(s) are less than 5 years old and are from a textbook or peer-reviewed journal. Reference(s) is/are made using APA 7th edition style and contain the author(s), date of publication, and source.","Completes a reference section giving credit to source(s) used. Reference(s) are less than 5 years old and are from a textbook or peer-reviewed journal. Reference(s) is/are made using APA 7th edition style. One or more of the following is missing from the reference: author(s), date of publication, and/or source. Or each reference in the section does not have an applicable intext citation.","Reference(s) are more than 5 years old or are not from a textbook or peer-reviewed journal OR one or more of the following is missing from the reference: author(s), date of publication, and/or source. Or intext citations are missing.",No submission.

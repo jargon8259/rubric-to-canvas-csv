@@ -1,0 +1,22 @@
+name: Release single-file app
+on:
+  push:
+    tags: ["v*"]
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: node --test "tests/**/*.test.ts"
+      - run: node build.mjs
+        env:
+          REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+          VERSION: ${{ github.ref_name }}
+      - run: gh release create "$GITHUB_REF_NAME" dist/rubric-to-canvas.html samples/sample-rba.docx samples/sample-rubric-table.csv --generate-notes
+        env:
+          GH_TOKEN: ${{ github.token }}

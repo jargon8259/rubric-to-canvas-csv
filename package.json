@@ -1,0 +1,12 @@
+{
+  "name": "rubric-to-canvas-csv",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Private, in-browser tool that turns the rubric in a finished RBA into a Canvas rubric import CSV.",
+  "type": "module",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "test": "node --test \"tests/**/*.test.ts\"",
+    "build": "node build.mjs"
+  }
+}
